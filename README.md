@@ -1,5 +1,6 @@
 # Tarea-Algoco
 Repositorio a referenciar Tarea 1 AlgoCo
+
 Nombre: Eduardo Pacheco
 Rol: 202273014-5
 
